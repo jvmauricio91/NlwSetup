@@ -1,3 +1,3 @@
 # NlwSetup
-Projeto realizado juntamento a Rocketseat.
+Projeto realizado juntamente a Rocketseat.
 Controle de Atividades e Hábitos diários.
